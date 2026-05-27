@@ -157,3 +157,14 @@ section span {
 .scroller {
   min-height: 200px;
 }
+
+
+@layer utilities {
+  .heading {
+    @apply font-bold text-4xl md:text-5xl text-center text-white;
+  }
+
+  .text-purple {
+    color: #CBACF9;
+  }
+}
