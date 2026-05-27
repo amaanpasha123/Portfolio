@@ -1,0 +1,124 @@
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: @react-spring/animated@9.7.5
+npm warn Found: react@19.2.4
+npm warn node_modules/react
+npm warn   peer react@">=16.8.0" from @floating-ui/react-dom@2.1.8
+npm warn   node_modules/@floating-ui/react-dom
+npm warn     @floating-ui/react-dom@"^2.0.0" from @radix-ui/react-popper@1.2.8
+npm warn     node_modules/@radix-ui/react-popper
+npm warn   82 more (@fluentui/react-icons, @griffel/react, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^16.8.0 || ^17.0.0 || ^18.0.0" from @react-spring/animated@9.7.5
+npm warn node_modules/@react-spring/animated
+npm warn   @react-spring/animated@"~9.7.5" from @react-spring/core@9.7.5
+npm warn   node_modules/@react-spring/core
+npm warn   1 more (@react-spring/three)
+npm warn
+npm warn Conflicting peer dependency: react@18.3.1
+npm warn node_modules/react
+npm warn   peer react@"^16.8.0 || ^17.0.0 || ^18.0.0" from @react-spring/animated@9.7.5
+npm warn   node_modules/@react-spring/animated
+npm warn     @react-spring/animated@"~9.7.5" from @react-spring/core@9.7.5
+npm warn     node_modules/@react-spring/core
+npm warn     1 more (@react-spring/three)
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: @react-spring/core@9.7.5
+npm warn Found: react@19.2.4
+npm warn node_modules/react
+npm warn   peer react@">=16.8.0" from @floating-ui/react-dom@2.1.8
+npm warn   node_modules/@floating-ui/react-dom
+npm warn     @floating-ui/react-dom@"^2.0.0" from @radix-ui/react-popper@1.2.8
+npm warn     node_modules/@radix-ui/react-popper
+npm warn   82 more (@fluentui/react-icons, @griffel/react, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^16.8.0 || ^17.0.0 || ^18.0.0" from @react-spring/core@9.7.5
+npm warn node_modules/@react-spring/core
+npm warn   @react-spring/core@"~9.7.5" from @react-spring/three@9.7.5
+npm warn   node_modules/@react-spring/three
+npm warn
+npm warn Conflicting peer dependency: react@18.3.1
+npm warn node_modules/react
+npm warn   peer react@"^16.8.0 || ^17.0.0 || ^18.0.0" from @react-spring/core@9.7.5
+npm warn   node_modules/@react-spring/core
+npm warn     @react-spring/core@"~9.7.5" from @react-spring/three@9.7.5
+npm warn     node_modules/@react-spring/three
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: @react-spring/shared@9.7.5
+npm warn Found: react@19.2.4
+npm warn node_modules/react
+npm warn   peer react@">=16.8.0" from @floating-ui/react-dom@2.1.8
+npm warn   node_modules/@floating-ui/react-dom
+npm warn     @floating-ui/react-dom@"^2.0.0" from @radix-ui/react-popper@1.2.8
+npm warn     node_modules/@radix-ui/react-popper
+npm warn   82 more (@fluentui/react-icons, @griffel/react, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^16.8.0 || ^17.0.0 || ^18.0.0" from @react-spring/shared@9.7.5
+npm warn node_modules/@react-spring/shared
+npm warn   @react-spring/shared@"~9.7.5" from @react-spring/animated@9.7.5
+npm warn   node_modules/@react-spring/animated
+npm warn   2 more (@react-spring/core, @react-spring/three)
+npm warn
+npm warn Conflicting peer dependency: react@18.3.1
+npm warn node_modules/react
+npm warn   peer react@"^16.8.0 || ^17.0.0 || ^18.0.0" from @react-spring/shared@9.7.5
+npm warn   node_modules/@react-spring/shared
+npm warn     @react-spring/shared@"~9.7.5" from @react-spring/animated@9.7.5
+npm warn     node_modules/@react-spring/animated
+npm warn     2 more (@react-spring/core, @react-spring/three)
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: @react-spring/three@9.7.5
+npm warn Found: react@19.2.4
+npm warn node_modules/react
+npm warn   peer react@">=16.8.0" from @floating-ui/react-dom@2.1.8
+npm warn   node_modules/@floating-ui/react-dom
+npm warn     @floating-ui/react-dom@"^2.0.0" from @radix-ui/react-popper@1.2.8
+npm warn     node_modules/@radix-ui/react-popper
+npm warn   82 more (@fluentui/react-icons, @griffel/react, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^16.8.0 || ^17.0.0 || ^18.0.0" from @react-spring/three@9.7.5
+npm warn node_modules/@react-spring/three
+npm warn   @react-spring/three@"~9.7.5" from @react-three/drei@9.122.0
+npm warn   node_modules/@react-three/drei
+npm warn
+npm warn Conflicting peer dependency: react@18.3.1
+npm warn node_modules/react
+npm warn   peer react@"^16.8.0 || ^17.0.0 || ^18.0.0" from @react-spring/three@9.7.5
+npm warn   node_modules/@react-spring/three
+npm warn     @react-spring/three@"~9.7.5" from @react-three/drei@9.122.0
+npm warn     node_modules/@react-three/drei
+npm error code ERESOLVE
+npm error ERESOLVE could not resolve
+npm error
+npm error While resolving: @react-three/drei@9.122.0
+npm error Found: @react-three/fiber@9.6.1
+npm error node_modules/@react-three/fiber
+npm error   peer @react-three/fiber@">=6.0" from @react-spring/three@9.7.5
+npm error   node_modules/@react-spring/three
+npm error     @react-spring/three@"~9.7.5" from @react-three/drei@9.122.0
+npm error     node_modules/@react-three/drei
+npm error       @react-three/drei@"^9.122.0" from the root project
+npm error   @react-three/fiber@"^9.6.1" from the root project
+npm error
+npm error Could not resolve dependency:
+npm error peer @react-three/fiber@"^8" from @react-three/drei@9.122.0
+npm error node_modules/@react-three/drei
+npm error   @react-three/drei@"^9.122.0" from the root project
+npm error
+npm error Conflicting peer dependency: @react-three/fiber@8.18.0
+npm error node_modules/@react-three/fiber
+npm error   peer @react-three/fiber@"^8" from @react-three/drei@9.122.0
+npm error   node_modules/@react-three/drei
+npm error     @react-three/drei@"^9.122.0" from the root project
+npm error
+npm error Fix the upstream dependency conflict, or retry
+npm error this command with --force or --legacy-peer-deps
+npm error to accept an incorrect (and potentially broken) dependency resolution.
+npm error
+npm error
+npm error For a full report see:
+npm error C:\Users\HP\AppData\Local\npm-cache\_logs\2026-05-27T10_31_54_563Z-eresolve-report.txt
+npm error A complete log of this run can be found in: C:\Users\HP\AppData\Local\npm-cache\_logs\2026-05-27T10_31_54_563Z-debug-0.log
