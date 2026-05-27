@@ -154,7 +154,7 @@ export const testimonials = [
     {
         quote:
             "Exceptional frontend skills and attention to detail. Highly recommended.",
-        name: "Sarah Williams",
+        name: "Sarah Williams pasha",
         title: "Product Manager",
     },
 

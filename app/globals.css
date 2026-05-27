@@ -134,10 +134,26 @@
   }
 }
 
-* {
+/* Instead of * { color: white } use: */
+.hero-section * {
     color: white !important;
 }
 
 section span {
     color: white !important;
+}
+
+
+@keyframes scroll {
+  to {
+    transform: translateX(calc(-50% - 0.5rem));
+  }
+}
+
+@utility animate-scroll {
+  animation: scroll var(--animation-duration, 40s) var(--animation-direction, forwards) linear infinite;
+}
+
+.scroller {
+  min-height: 200px;
 }
