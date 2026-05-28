@@ -4,7 +4,8 @@ import { motion } from "framer-motion";
 
 type SpotlightProps = {
     className?: string;
-};
+    fill?: string;
+}
 
 export const Spotlight = ({
     className = "",
