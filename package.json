@@ -12,6 +12,7 @@
     "@fluentui/react-icons": "^2.0.328",
     "@react-three/drei": "^8.20.2",
     "@react-three/fiber": "^9.6.1",
+    "@tabler/icons-react": "^3.44.0",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "framer-motion": "^12.40.0",
