@@ -45,18 +45,18 @@ export const gridItems = [
     },
     {
         id: 4,
-        title: "Passionate about development",
-        description: "Always learning new technologies.",
-        className: `lg:col-span-1 md:col-span-3 md:row-span-1 min-h-[200px] ${commonClasses.card}`,
+        title: "Turning ideas into seamless full-stack digital experiences",
+        description: "Passionate about building modern frontend interfaces, scalable backend systems, and efficient database architectures.",
+        className: `lg:col-span-3 md:col-span-3 md:row-span-1 min-h-[250px] ${commonClasses.card}`,
         imgClassName: "absolute right-0 bottom-0 opacity-70 object-contain",
-        titleClassName: `justify-start px-4 py-4 text-base ${commonClasses.title}`,
+        titleClassName: `justify-start px-4 py-4 text-base md:text-lg ${commonClasses.title}`,
         img: "/grid.svg",
         spareImg: "/b4.svg",
     },
     {
         id: 5,
-        title: "Building a JS Animation library",
-        description: "The Inside Scoop",
+        title: "Building scalable full-stack applications with modern technologies",
+        description: "Experienced in frontend development, backend architecture, APIs, and database management.",
         className: `lg:col-span-3 md:col-span-6 md:row-span-1 min-h-[220px] ${commonClasses.card}`,
         imgClassName: "absolute right-0 bottom-0 md:w-72 w-40 opacity-90",
         titleClassName: `justify-center md:justify-start text-xl px-4 ${commonClasses.title}`,
@@ -80,18 +80,18 @@ export const gridItems = [
 export const projects = [
     {
         id: 1,
-        title: "3D Solar System Planets",
+        title: "EventBooking Website",
         des:
-            "Explore the solar system with immersive Three.js animations.",
-        img: "/p1.svg",
+            "Explore the Event booking SaaS project you could book your own events over here",
+        img: "/event.jpg",
         iconLists: [
             "/re.svg",
             "/tail.svg",
             "/ts.svg",
-            "/three.svg",
-            "/fm.svg",
+            "/node.png",
+            "/MongoDB.svg",
         ],
-        link: "/ui.earth.com",
+        link: "https://www.amaanbook.shop/",
     },
 
     {
@@ -206,36 +206,36 @@ export const companies = [
 export const workExperience = [
     {
         id: 1,
-        title: "Frontend Engineer Intern",
+        title: "MERN Stack & Full-Stack Development",
         desc:
-            "Developed responsive and interactive web applications.",
+            "Building scalable full-stack applications using MongoDB, Express.js, React, Next.js, and Node.js.",
         className: "md:col-span-2",
         thumbnail: "/exp1.svg",
     },
 
     {
         id: 2,
-        title: "Mobile App Developer",
+        title: "Backend Development & Database Management",
         desc:
-            "Built Android and iOS apps using React Native.",
+            "Designing secure REST APIs, authentication systems, and optimized database architectures with MongoDB and SQL.",
         className: "md:col-span-2",
         thumbnail: "/exp2.svg",
     },
 
     {
         id: 3,
-        title: "Freelance Full Stack Developer",
+        title: "Deployment, CI/CD & Cloud Integration",
         desc:
-            "Delivered complete full-stack solutions for clients.",
+            "Deploying modern applications with Docker, GitHub, Vercel, and automated CI/CD workflows for production-ready systems.",
         className: "md:col-span-2",
         thumbnail: "/exp3.svg",
     },
 
     {
         id: 4,
-        title: "Lead Frontend Developer",
+        title: "Bug Fixing & Performance Optimization",
         desc:
-            "Led frontend architecture and UI development.",
+            "Improving application performance, debugging complex issues, and creating responsive, user-friendly interfaces.",
         className: "md:col-span-2",
         thumbnail: "/exp4.svg",
     },
