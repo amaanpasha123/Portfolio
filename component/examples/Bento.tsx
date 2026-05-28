@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import { BentoGrid, BentoGridItem } from "@/components/ui/bento-grid";
+import { BentoGrid, BentoGridItem } from "@/component/ui/BentoGrid";
 import {
     IconArrowWaveRightUp,
     IconBoxAlignRightFilled,
