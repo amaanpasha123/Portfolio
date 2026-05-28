@@ -54,9 +54,7 @@ const Hero = () => {
                         className="text-center text-lg font-medium leading-relaxed text-white md:text-2xl"
                         words="Passionate about building modern, scalable, and user-friendly web applications with MERN Stack and Next.js."
                     />
-                    <p className="mt-4 text-center text-white">
-                        hi i am Amaan
-                    </p>
+
                     <a href="#project" className="mt-8">
                         <MagicButton
                             title="Show My Work"
