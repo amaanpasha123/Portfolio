@@ -5,7 +5,7 @@ import Grid from "@/component/Grid";
 import Hero from "@/component/Hero";
 import RecentProject from "@/component/RecentProject";
 import Approach from "@/component/Approach";
-import { FloatingNav } from "@/components/ui/floating-navbar";
+import { FloatingNav } from "@/component/ui/Floating-nav";
 import { navItems } from "@/data";
 import { FaHome } from "react-icons/fa"
 import Fotter from "@/component/Fotter";
