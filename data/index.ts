@@ -97,9 +97,9 @@ export const projects = [
 
   {
     id: 3,
-    title: "AI Image SaaS App",
-    des: "AI-powered image generation and editing platform.",
-    img: "/p3.svg",
+    title: "AI-Interviewer",
+    des: "Real time AI Interviewer to get your real value",
+    img: "/AI-Interviewer.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
     link: "/ui.aiimg.com",
   },
