@@ -101,7 +101,7 @@ export const projects = [
     des: "Real time AI Interviewer to get your real value",
     img: "/AI-Interviewer.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    link: "https://ai-interviewer-backend-pink.vercel.app/",
   },
 
   {
