@@ -118,14 +118,14 @@ export const testimonials = [
   {
     quote:
       "Collaborating with Adrian was an absolute pleasure. His professionalism and dedication stood out throughout the project.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    name: "Faheem khan",
+    title: "Hotel in Noida",
   },
 
   {
     quote:
       "Exceptional frontend skills and attention to detail. Highly recommended.",
-    name: "Sarah Williams pasha",
+    name: "pasha",
     title: "Product Manager",
   },
 
