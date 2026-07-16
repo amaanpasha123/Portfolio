@@ -131,7 +131,7 @@ export const testimonials = [
 
   {
     quote: "Delivered everything on time with excellent communication.",
-    name: "David Brown",
+    name: "David",
     title: "Startup Founder",
   },
 ];
