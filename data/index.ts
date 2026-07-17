@@ -119,7 +119,7 @@ export const testimonials = [
     quote:
       "Collaborating with Adrian was an absolute pleasure. His professionalism and dedication stood out throughout the project.",
     name: "Faheem khan",
-    title: "Hotel in Noida",
+    title: "Hotel in ",
   },
 
   {
