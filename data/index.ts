@@ -126,7 +126,7 @@ export const testimonials = [
     quote:
       "Exceptional frontend skills and attention to detail. Highly recommended.",
     name: "pasha",
-    title: "Product Manager",
+    title: "Product Managers",
   },
 
   {
