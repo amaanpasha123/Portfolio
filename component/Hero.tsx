@@ -52,7 +52,7 @@ const Hero = () => {
                 <div className="mt-8 max-w-3xl">
                     <TextGenerateEffect
                         className="text-center text-lg font-medium leading-relaxed text-white md:text-2xl"
-                        words="Passionate about building modern, scalable, and user-friendly web applications with MERN Stack and Next.js."
+                        words="Passionate about building modern, scalable, and user-friendly web applications with MERN Stack, Typescript, Spring boot and Scalable fullstack Applications"
                     />
 
                     <a href="#project" className="mt-8">
